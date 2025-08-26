@@ -1,0 +1,5 @@
+{
+  "name": "Worksheet Word Cloud Generator",
+  "description": "An application that extracts keywords from an uploaded worksheet image and generates a visually appealing word cloud.",
+  "requestFramePermissions": []
+}
